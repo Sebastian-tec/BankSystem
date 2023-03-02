@@ -1,0 +1,15 @@
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.csproj.AssemblyReference.cache
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.AssemblyInfoInputs.cache
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.AssemblyInfo.cs
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.csproj.CoreCompileInputs.cache
+E:\Github\BankSystem\bin\Debug\net6.0\BankSystem.exe
+E:\Github\BankSystem\bin\Debug\net6.0\BankSystem.deps.json
+E:\Github\BankSystem\bin\Debug\net6.0\BankSystem.runtimeconfig.json
+E:\Github\BankSystem\bin\Debug\net6.0\BankSystem.dll
+E:\Github\BankSystem\bin\Debug\net6.0\BankSystem.pdb
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.dll
+E:\Github\BankSystem\obj\Debug\net6.0\refint\BankSystem.dll
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.pdb
+E:\Github\BankSystem\obj\Debug\net6.0\BankSystem.genruntimeconfig.cache
+E:\Github\BankSystem\obj\Debug\net6.0\ref\BankSystem.dll
